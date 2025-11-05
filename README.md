@@ -1,2 +1,3 @@
 # PythonDSA
-Some basic DSA topics in Python
+Trying to learn DSA in Python
+
